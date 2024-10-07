@@ -5,3 +5,15 @@ postgres:15-alpine
 redis:6-alpine
 myscale/myscaledb:1.6.4
 nvidia/cuda:12.5.1-devel-ubuntu22.04
+supabase/studio:20240923-2e3e90c
+kong:2.8.1
+supabase/gotrue:v2.158.1
+postgrest/postgrest:v12.2.0
+supabase/realtime:v2.30.34
+supabase/storage-api:v1.10.1
+darthsim/imgproxy:v3.8.0
+supabase/postgres-meta:v0.83.2
+supabase/edge-runtime:v1.58.3
+supabase/logflare:1.4.0
+supabase/postgres:15.1.1.78
+timberio/vector:0.28.1-alpine
