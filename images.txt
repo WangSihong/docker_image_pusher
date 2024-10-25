@@ -1,1 +1,1 @@
-supabase/postgres:15.1.1.78
+python:3.11
