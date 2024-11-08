@@ -1,1 +1,1 @@
-rustdesk/rustdesk-server:latest
+python:3.12-alpine3.20
