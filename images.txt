@@ -1,1 +1,1 @@
-nginx:stable
+node:14.19.0-alpine
