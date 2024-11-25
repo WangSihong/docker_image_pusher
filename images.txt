@@ -1,1 +1,1 @@
-node:23.1.0-bookworm
+freeren/qanything:v1.2.
