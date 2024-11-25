@@ -1,1 +1,1 @@
-freeren/qanything:v1.2
+freeren/qanything:v1.2.2
