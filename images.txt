@@ -1,1 +1,3 @@
-freeren/qanything:v1.2.2
+continuumio/miniconda3:4.8.2
+rabbitmq:3.7.27-rc.1-management-alpine
+redis:alpine3.12
